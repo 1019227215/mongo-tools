@@ -9,4 +9,4 @@ LICENSE GPL V3
 
 
 for more information please visit to 
-http://duoyun.org/?tab=tools
+http://nosqldb.org/node/tools
